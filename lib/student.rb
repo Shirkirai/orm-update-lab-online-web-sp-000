@@ -58,6 +58,8 @@ class Student
 
   def self.new_from_db(array)
       #binding.pry
+      student = Student.new(array)
+      student
   end
 
 
