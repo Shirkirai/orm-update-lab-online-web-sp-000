@@ -62,6 +62,10 @@ class Student
       student
   end
 
+  def self.find_by_name
+  end
+
+
 
 
 
