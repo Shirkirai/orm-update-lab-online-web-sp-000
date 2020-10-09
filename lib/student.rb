@@ -56,7 +56,7 @@ class Student
   end
 
   def self.new_from_db(array)
-
+      binding.pry
   end
 
 
